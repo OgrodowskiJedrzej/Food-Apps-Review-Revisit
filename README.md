@@ -19,8 +19,6 @@ scraped from Apple App Store and Google Play Store.
 
 ## Process
 
-And this will produce a flow chart:
-
 ```mermaid
 graph LR
 A[Scraping data from platforms] -- Data cleaning and merging --> B[Visual Analysis]-- Data processing -->C[Use of ML algorithms]
