@@ -30,4 +30,5 @@ A[Scraping data from platforms] -- Data cleaning and merging --> B[Visual Analys
 ## Authors
 - Maksymilian Norkiewicz
 - Jędrzej Ogrodowski
+
 from department of Informatics and Telecomunnication of Poznan`s University of Technology.
