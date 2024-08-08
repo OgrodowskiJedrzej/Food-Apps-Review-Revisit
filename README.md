@@ -31,4 +31,4 @@ A[Scraping data from platforms] -- Data cleaning and merging --> B[Visual Analys
 - Maksymilian Norkiewicz
 - Jędrzej Ogrodowski
 
-from department of Informatics and Telecomunnication of Poznan`s University of Technology.
+from the Faculty of Computing and Telecommunications, Poznan's University of Technology.
